@@ -46,7 +46,7 @@ body::before {
     position: absolute;
     inset: 0;
     background-color: rgba(255, 255, 255, 0.30);
-    z-index: 0;
+    z-index: -1;
 }
 
 h1::after {
