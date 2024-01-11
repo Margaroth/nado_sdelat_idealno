@@ -38,7 +38,7 @@ h1 {
     font-style: normal;
     font-weight: 800;
     line-height: normal;
-    letter-spacing: 4.06px;
+    letter-spacing: 4px;
 }
 
 body::before {
@@ -58,7 +58,7 @@ h1::after {
     font-style: bold;
     font-weight: 800;
     line-height: normal;
-    letter-spacing: 0;
+    letter-spacing: 0px;
 }
 
 h1:hover::before {
