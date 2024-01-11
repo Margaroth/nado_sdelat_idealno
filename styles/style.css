@@ -28,7 +28,7 @@ video {
 }
 
 h1 {
-    margin: 60px 0 0 20px;
+    margin: 60px 0 0;
     position: static;
     text-transform: uppercase;
     color: #000;
@@ -39,6 +39,10 @@ h1 {
     font-weight: 800;
     line-height: normal;
     letter-spacing: 4px;
+}
+
+.header_last_word {
+    margin-left: 20px;
 }
 
 body::before {
