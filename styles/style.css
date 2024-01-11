@@ -14,7 +14,6 @@ body {
     flex-direction: row;
     height: inherit;
     margin: 0;
-    justify-content: center;
 }
 
 video {
@@ -28,7 +27,7 @@ video {
 }
 
 h1 {
-    margin: 60px 0 0;
+    margin: 60px 0 0 431px;
     position: static;
     text-transform: uppercase;
     color: #000;
