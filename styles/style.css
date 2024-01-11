@@ -13,7 +13,7 @@ body {
     display: flex;
     flex-direction: row;
     height: inherit;
-    margin: 0;
+
     justify-content: center;
 }
 
